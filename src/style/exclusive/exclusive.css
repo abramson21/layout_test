@@ -1,0 +1,8 @@
+@import url('./__images/exclusive__images.css');
+@import url('./__info/exclusive__info.css');
+
+.exclusive {
+    display: flex;
+    flex-direction: row;
+    padding: 120px 98px;
+}

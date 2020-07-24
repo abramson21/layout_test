@@ -1,0 +1,9 @@
+@import url('./__left/product__left.css');
+@import url('./__right/product__right.css');
+
+.product {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 72px 132px 245px 98px;
+}

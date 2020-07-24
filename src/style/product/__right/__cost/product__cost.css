@@ -1,0 +1,24 @@
+.product__cost {
+    color: #212121;
+    font-family: "Montserrat Light";
+    font-size: 36px;
+    font-weight: 100;
+    line-height: 48.02px;
+    margin: 36px 0 0 0;
+}
+
+.product__cost_size {
+    font-family: 'Montserrat - Thin';
+    font-size: 72px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.button__paragraph_margin {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.01px;
+    text-transform: uppercase;
+    /* Text style for "Order Us" */
+    letter-spacing: 4.4px;
+}

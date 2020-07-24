@@ -1,0 +1,11 @@
+.header__products {
+    color: #212121;
+    font-family: "Montserrat-Bold";
+    font-size: 36px;
+    font-weight: 700;
+    margin: 0 0 34px 98px;
+}
+
+.header__products_margin {
+    margin-left: 0;
+}

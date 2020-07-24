@@ -1,0 +1,11 @@
+.product__paragraph {
+    font-family: "Montserrat-Bold";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 48.02px;
+    text-transform: uppercase;
+    /* Text style for "Hot Deal" */
+    color: #e53935;
+    letter-spacing: 1.8px;
+    margin: 23px 198px 0 208px;
+}

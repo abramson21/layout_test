@@ -1,0 +1,12 @@
+.textBlock__name {
+    width: 435px;
+    color: #212121;
+    font-family: "Montserrat - Thin";
+    font-size: 62px;
+    font-weight: 400;
+    line-height: 72px;
+    text-transform: uppercase;
+    margin: 0 0 34px 100px;
+    letter-spacing: -4px;
+    line-height: 45px;
+}

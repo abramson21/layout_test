@@ -1,0 +1,5 @@
+.promo-product__first {
+    width: 50%;
+    background-repeat: no-repeat;
+    background-image: url('../images/promo-img1.svg');
+}

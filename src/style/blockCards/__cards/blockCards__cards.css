@@ -1,0 +1,16 @@
+@import url('./cardsImage/cardsImage.css');
+@import url('./cardsHeader/cardsHeader.css');
+@import url('./cardsParagraph/cardsParagraph.css');
+@import url('./cardsParagraphData/cardsParagraphData.css');
+
+.blockCards__cards {
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 63px;
+    border: 1px solid #9c9c9c;
+    background-color: #ffffff;
+    opacity: 0.9;
+}

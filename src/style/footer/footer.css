@@ -1,0 +1,7 @@
+@import url('./__links/footer__links.css');
+@import url('./copyrigh/copyrigh.css');
+
+.footer {
+    padding: 120px 105px 0 97px;
+    background-color: #f7f7f7;
+}

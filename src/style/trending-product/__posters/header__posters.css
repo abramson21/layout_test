@@ -1,0 +1,7 @@
+@import url('./poster/poster.css');
+
+.header__posters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

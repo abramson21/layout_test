@@ -1,0 +1,8 @@
+@import url('./column/column.css');
+
+.group-link__info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 422px;
+}

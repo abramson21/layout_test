@@ -1,0 +1,38 @@
+
+.textBlock__button {
+    display: flex;
+    flex-direction: row;
+    width: 212px;
+    height: 45px;
+    box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+    border-radius: 23px;
+    background-color: #ffffff;
+    margin: 0 0 141px 98px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    transition: all 1s ease-out;
+    text-transform: uppercase;
+}
+
+.button__symbol {
+    width: 9px;
+    color: #212121;
+    margin-left: 12px;
+    overflow:hidden;
+}
+
+.button__paragraph {
+    font-family: "Montserrat-Bold";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 3.6px;
+    margin: 0;
+}
+
+.textBlock__button:hover{
+   transform: scale(1.1);
+}

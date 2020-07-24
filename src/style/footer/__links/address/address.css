@@ -1,0 +1,6 @@
+@import url('./__info/address__info.css');
+@import url('./__header/address__header.css');
+
+.address {
+    width: 230px;
+}

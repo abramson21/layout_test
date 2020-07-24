@@ -1,0 +1,19 @@
+.slider__button {
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    background-color:#c7c7c7;
+    display: inline-block;
+}
+
+.slider__button_active {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #212121;
+}
+
+.slider__button:hover {
+    background-color: #212121;
+}

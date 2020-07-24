@@ -1,0 +1,9 @@
+@import url('./__first/promo-product__first.css');
+@import url('./__second/promo-product__second.css');
+@import url('./textBlock_module/textBlock_module.css');
+
+.promo-product {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}

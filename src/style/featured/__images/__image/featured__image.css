@@ -1,0 +1,22 @@
+@import url('./featured__hover/featured__hover.css');
+
+.featured__image {
+    width: 270px;
+    height: 270px;
+}
+
+.featured__image_first {
+    background-image: url('../../images/product-1.svg');
+}
+
+.featured__image_second {
+    background-image: url('../../images/product-2.svg');
+}
+
+.featured__image_third {
+    background-image: url('../../images/product-3.svg');
+}
+
+.featured__image_four {
+    background-image: url('../../images/product-4.svg');
+}

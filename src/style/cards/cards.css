@@ -1,0 +1,7 @@
+@import url('./__renewal/cards__renewal.css');
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    padding: 71px 98px 140px;
+}

@@ -1,0 +1,20 @@
+@import url('./_on/link_on.css');
+@import url('./_off/link_off.css');
+
+.link, .link__menu {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    line-height: 13px;
+}
+
+.link:hover, .link__menu:hover { 
+    color: #212121;
+}
+
+.link__menu {
+    font-family: "Montserrat-Bold";
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}

@@ -1,0 +1,15 @@
+.link_off, .link_offFont {
+    letter-spacing: 1.4px;
+    color: #8c8c8c;
+    font-family: "Montserrat Light";
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.link_offFont {
+    font-family: "Montserrat-Bold";
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}

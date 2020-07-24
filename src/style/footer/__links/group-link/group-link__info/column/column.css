@@ -1,0 +1,6 @@
+@import url('./column-link/column-link.css');
+
+.column {
+    display: flex;
+    flex-direction: column;;
+}

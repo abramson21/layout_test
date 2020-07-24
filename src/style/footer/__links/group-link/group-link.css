@@ -1,0 +1,6 @@
+@import url('./group-link__info/group-link__info.css');
+
+.group-link {
+    display: flex;
+    flex-direction: column;
+}

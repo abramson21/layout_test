@@ -1,0 +1,8 @@
+@import url('./header__products/header__products.css');
+@import url('./button/textBlock__button_borderNone.css');
+
+.trending-products__header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

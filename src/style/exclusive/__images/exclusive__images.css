@@ -1,0 +1,24 @@
+.exclusive__images {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-between;
+    margin-left: 30px;
+}
+
+.exclusive__images_first {
+    background-image: url('../images/product-2-sm.png');
+}
+
+.exclusive__images_second {
+    background-image: url('../images/product-3-sm.png');
+}
+
+.exclusive__images_third {
+    background-image: url('../images/product-4-sm.png');
+}
+
+.exclusive__images_four {
+    background-image: url('../images/product-5-sm.png');
+}

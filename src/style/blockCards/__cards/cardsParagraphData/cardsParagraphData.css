@@ -1,0 +1,26 @@
+.cardsParagraphData {
+    color: #212121;
+    font-family: "Montserrat-Bold";
+    font-weight: 700;
+    margin-top: 1px;
+    margin-bottom: 0;
+}
+
+.cardsParagraphData_Lite {
+    font-family: "Montserrat - Thin";
+    color: #989898;
+    font-weight: 700;
+    margin-top: 1px;
+    margin-bottom: 0;
+}
+
+.cardsParagraphData_LiteMargin {
+    font-family: "Montserrat";
+    color: #989898;
+    font-weight: 700;
+    margin: 10px 0 68px;
+    width: 220px;
+    font-size: 14px;
+    line-height: 21.91px;
+    text-align: center;
+}

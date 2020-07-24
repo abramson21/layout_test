@@ -1,0 +1,9 @@
+@import url('./__paragraph/textBlock__paragraph.css');
+@import url('./__name/textBlock__name.css');
+@import url('./__info/textBlock__info.css');
+@import url('./__button/textBlock__button.css');
+@import url('./slider/slider.css');
+
+.textBlock { 
+    padding: 278px 0 19px;
+}

@@ -1,0 +1,24 @@
+.featured__button {
+    border: none;
+    outline: none;
+    background-image: url('../../../../images/back.svg');
+    width: 56px;
+    height: 56px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 51px 111px 0;
+    background-color: #fff;
+}
+
+.button__symbol_margin {
+    margin: 0;
+}
+
+.cardsHeader_marginHome {
+    width: 145px;
+    margin: 19px 62px;
+    text-align: center;
+}

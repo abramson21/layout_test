@@ -1,0 +1,30 @@
+@import url('../vendor/fonts.css');
+@import url('../vendor/normalize.css');
+@import url('./style/header/header.css');
+@import url('./style/featured/featured.css');
+@import url('./style/promo-product/promo-product.css');
+@import url('./style/hot-deals/hot-deals.css');
+@import url('./style/trending-product/trending-products.css');
+@import url('./style/exclusive/exclusive.css');
+@import url('./style/modile-app/modile-app.css');
+@import url('./style/footer/footer.css');
+@import url('./style/blockCards/blockCards.css');
+@import url('./style/menu/menu.css');
+@import url('./style/product/product.css');
+@import url('./style/cards/cards.css');
+
+
+body {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+button,button:active, button:focus {
+    outline: none;
+    cursor: pointer;
+}
+
+input {
+    outline: none;
+    border: none;
+}

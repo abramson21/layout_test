@@ -1,0 +1,26 @@
+.menu__box {
+    width: 74px;
+    justify-content: center;
+    margin: 0;
+    flex-direction: column;
+}
+
+.link_on, .link_onFont {
+    color: #8c8c8c;
+    font-size: 14px;
+    color: #212121;
+    font-family: "Montserrat-Bold";
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+.link__border {
+    margin: 7px 0 0;
+    bottom: 0;
+    width: 100%;
+    border-bottom: 3px solid #212121;
+}
+
+.link_onFont {
+    font-size: 18px;
+}

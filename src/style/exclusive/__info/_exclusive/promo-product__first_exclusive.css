@@ -1,0 +1,10 @@
+@import url('./_marginExclusive/textBlock__paragraph_marginExclusive.css');
+@import url('./_marginExclusive/textBlock__name_marginExclusive.css');
+@import url('./_marginExclusive/textBlock__info_marginExclusive.css');
+@import url('./_marginExclusive/textBlock__button_marginExclusive.css');
+
+.promo-product__first_exclusive {
+    background-image: url('../../images/product-1-lg.svg');
+    margin: 0;
+    width: 570px;
+}

@@ -1,0 +1,12 @@
+.address__search {
+    background: url('../../../../images/.png');
+    background-repeat: no-repeat;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    width: 21px;
+    height: 17px;
+    margin: 16px 14px 15px 0;
+}

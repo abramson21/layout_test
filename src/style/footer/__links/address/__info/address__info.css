@@ -1,0 +1,9 @@
+@import url('./_info/address__info_margin.css');
+
+.address__info {
+    color: #212121;
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+}

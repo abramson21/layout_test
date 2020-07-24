@@ -1,0 +1,29 @@
+.textBlock__paragraph_margin {
+    width: 115px;
+    margin: 228px 517px 18px 51px;
+    color: #1e88e5;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+}
+
+.textBlock__name_margin {
+    margin: 0 340px 24px 52px;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: "Montserrat-Bold";
+}
+
+.textBlock__info_margin {
+    width: 374px;
+    color: #6c6c6c;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24.04px;
+    margin: 0 259px 34px 50px;
+}
+
+.textBlock__button_margin {
+    margin: 0 421px 233px 50px;
+}

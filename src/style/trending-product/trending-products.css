@@ -1,0 +1,10 @@
+@import url('./__header/trending-products__header.css');
+@import url('./__posters/header__posters.css');
+
+.trending-products {
+    padding: 119px 98px 120px;
+}
+
+.trending-products_padding{
+    padding-top: 0;
+}

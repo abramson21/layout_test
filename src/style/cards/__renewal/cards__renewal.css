@@ -1,0 +1,18 @@
+.cards__renewal {
+    background-image: url('../../../images/renewal.png');
+    width: 42px;
+    height: 29px;
+    background-repeat: no-repeat;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    margin: 71px 554px 0 574px;
+}
+
+.cards__renewal:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}

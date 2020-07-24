@@ -1,0 +1,7 @@
+@import url('./device/device.css');
+
+.modile-app__logo {
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+}

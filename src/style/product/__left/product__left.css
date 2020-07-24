@@ -1,0 +1,8 @@
+@import url('./__assortment/product__assortment.css');
+
+.product__left {
+    width: 570px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

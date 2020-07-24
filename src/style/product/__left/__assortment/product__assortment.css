@@ -1,0 +1,8 @@
+@import url('./assortment/assortment.css');
+
+.product__assortment {
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+    justify-content: space-between;
+}

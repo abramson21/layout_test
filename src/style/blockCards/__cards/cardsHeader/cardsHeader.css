@@ -1,0 +1,14 @@
+.cardsHeader {
+    width: 137px;
+    color: #212121;
+    font-family: "Montserrat-Bold";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 29.88px;
+    text-transform: uppercase;
+}
+
+.cardsHeader_marginHome {
+    width: 180px;
+    margin: 10px 0 0 0;
+}

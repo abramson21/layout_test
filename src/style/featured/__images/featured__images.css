@@ -1,0 +1,7 @@
+@import url('./__image/featured__image.css');
+
+.featured__images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+@import url('./address/address.css');
+@import url('./group-link/group-link.css');
+@import url('./footer__input/footer__input.css');
+
+.footer__links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+@import url('./__info/copyrigh__info.css');
+
+.copyrigh {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 67px 0 30px;
+}

@@ -1,0 +1,11 @@
+@import url('./__button/featured__button.css');
+
+.featured__hover {
+    width: 100%;
+    border: 1px solid #9c9c9c;
+    background-color: #ffffff;
+    opacity: 0.9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

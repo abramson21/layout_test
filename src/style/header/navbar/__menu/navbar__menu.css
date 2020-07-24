@@ -1,0 +1,16 @@
+@import url('./link/link.css');
+@import url('./search/navbar__search.css');
+
+.navbar__menu {
+    display: flex;
+    width: 490px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 4px 0 0 369px;
+}
+
+.navbar__menu_margin {
+    width: 647px;
+    margin: 0;
+    
+}

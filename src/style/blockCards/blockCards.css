@@ -1,0 +1,8 @@
+@import url('./__cards/blockCards__cards.css');
+
+.blockCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 71px 98px 122px;
+}

@@ -1,0 +1,7 @@
+@import url('./__widthButton/input__widthButton.css');
+
+.footer__input {
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+}
